@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](animation.gif)
+![](gif_imc.gif)
 
 ## Getting Started
 
